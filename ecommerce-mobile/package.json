@@ -1,6 +1,7 @@
 {
   "name": "ecommerce-mobile",
   "main": "expo-router/entry",
+  "scheme": "not-just-dev",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
