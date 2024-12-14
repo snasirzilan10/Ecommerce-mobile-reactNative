@@ -1,12 +1,12 @@
 import {View, Text} from 'react-native'
 
-export default function Cartscreen(){
-    
+export default function CartScreen(){
     return(
 
-    <View>
-        <Text>Cart Screen</Text>
-    </View>
+        <View>
+            <Text style={{ fontSize:30 }} >Cart Screen</Text>
+        </View>
 
- )
+
+    )
 }
